@@ -1,0 +1,30 @@
+---
+layout: default
+---
+
+<small>{{ page.date | date: "%-d %B %Y" }}</small>
+<h1>{{ page.title }}</h1>
+
+<p class="view">by
+{% if page.author %}
+{{ page.author }}
+{% else %}
+<a href="{{ site.github.owner_url }}"><img width="32" height="32" border="0"
+  src="{{ site.github.owner_gravatar_url }}"
+  alt="gravatar"/>{{ site.github.owner_name }}</a>
+{% endif %}
+</p>
+
+{{content}}
+
+{% assign first_tag = true %}
+{% for tag in site.tags %}
+  {% if first_tag %}
+  <small>tags: [<em>
+    {% assign first_tag = false %}
+  {% endif %}
+  {{ tag }}
+{% endfor %}
+{% unless first_tag %}
+  ]</em></small>
+{% endunless %}
