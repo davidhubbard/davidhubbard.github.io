@@ -41,12 +41,29 @@ The 10 Commandments define limits, something software often does. Looking at
 how successful civilizations have adhered to the 10 commandments, I assume the
 large number of copies of The Code means something.
 
+Even more interesting is that God provided The Code by a miracle, writing it in
+stone and creating fire in various improbable places (a bush, a mountain).
+My point is it's a miracle the 10 Commandments work so well.
+
 ## Can I make better software by studying Jesus?
 
-I hope so!
+I hope so! Let me quickly dismiss any claim that what I'm doing is "Jesus
+approved." Matthew 18 verses 19-20 only say that Jesus might come and
+participate.
 
-Other than shipping a minimum viable product, I'm not sure I can claim what I
-do is "Jesus approved."
+I think that means Jesus would have liked cooperative, collaborative software.
+Perhaps the user freedoms from a Free Software license align with Matthew
+chapter 5 verses 7 and 9, or chapter 7 verse 12.
 
-I'll post more ideas as they come to me. I think Jesus would approve of the
-free expression of thought, as a means to come to know Him better.
+On one point, Jesus was abundantly clear: give glory to God. (Matthew
+chapter 5 verse 16) Here's my practical application of this:
+
+1. Assign copyright to an organization, instead of retaining copyright as
+   an individual
+2. Use a license that specifically names Jesus Christ, though the license
+   may be liberal to all who accept Jesus Christ
+3. Exercise restraint and humility, not claiming mortal works are
+   divine or perfect
+
+The [Christian Disciple Prayer and License](https://github.com/davidhubbard/christiandiscipleprayerandlicense)
+is an incomplete text that can be filled out to meet these goals.
