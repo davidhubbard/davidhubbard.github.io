@@ -45,6 +45,8 @@ Even more interesting is that God provided The Code by a miracle, writing it in
 stone and creating fire in various improbable places (a bush, a mountain).
 My point is it's a miracle the 10 Commandments work so well.
 
+See Exodus chapter 20.
+
 ## Can I make better software by studying Jesus?
 
 I hope so! Let me quickly dismiss any claim that what I'm doing is "Jesus
