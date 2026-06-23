@@ -4,61 +4,63 @@ layout: post
 
 # Jesus' Approach to Software
 
-Did Jesus manage any software projects? I'll be upfront and say, definitively,
-no.
+Wait, did Jesus actually write software? No. He did not.
 
-The rest of this post attempts to imagine if He did. It's a major challenge to
-imagine, "what would Jesus do?" with proper reverence for God. You probably
-have some feedback. I probably won't be ready to receive it yet, but here's me
-acknowledging this is a rough idea, an epiphany.
+"But what would Jesus do?" I don't have a complete idea yet, only a sort of
+epiphany. My rough idea is that Jesus would go about doing good.
 
-## Why not just use a miracle?
+![Epiphany](/assets/img/6.jpg)
 
-It seems an old new idea in software is this: make a rough prototype and use
-that as long as possible. Call it "user studies," "requirements gathering," or
-the 80-20 rule taken to its extreme. It seems software that barely works
-has the most potential to succeed - "early access," alpha and beta quality
-software, find the minimum viable product.
+I am fascinated with creating new software. I love how my
+[imagination](/2025/09/17/disciple.html) soars when I dream of a little bit of
+heaven and then start carving in code to dream it into life.
 
-I've heard it said often: "It's a miracle that worked."
+## Why not a miracle?
 
-Software that only does the minimum needed to be useful leaves a lot of gaps
-which encourage brainstorming, discussions, and careful thought.
+<div class="p20240517section1"></div>
+<div class="p20240517section2" markdown="1">
+To me, software is a miracle.
 
-Miracles that only do the minimum to restore "what God wills" have often
-left gaps in my understanding. Jesus' miracles have taught me a lot by what's
-left unsaid.
+I remember the first time I understood how to use a formula in a spreadsheet.
+Solved an equation in a Computer Algebra System. Penned a trig solver that
+went viral. I was amazed how easily giant problems tumbled.
+
+I was asked out of the blue, could I fix this broken system? There were a lot
+of people who needed help when their computer misbehaved.
+
+The miracles in the Bible impress me. What God can do leaves me with so many
+questions. I like to think that sometimes God can use a human to work a small
+miracle for someone else, an act of service. Computer repair for instance.
+
+Computers have been a miracle for many people. I'm sure the next generation
+won't even notice how easily they can finish tasks that took us forever.
+Brooks said there's no silver bullet, and I find that true. Some things can't
+be fixed with a computer. It's a joyous moment when I try something and
+it does work.
+</div>
 
 ## The 10 Commandments
 
-I think the 10 Commandments are software-like. Instead of an obtuse
-legalistic license with thousands of pages, they are brief. They assume I
-already have a clear understanding of who God is (Theology) and my
-relationship to Him. The rest of the Old Testament could be the assets for
-the 10 Commandments, the way software has assets next to the code.
+The 10 Commandments are short. The rest of the Bible expands my understanding
+of them. But they're a set of rules (like a computer program) that I appreciate
+and live by. God even provided them by a miracle, writing on stone and creating
+fire in some improbable places like a bush and a mountain.
 
-The 10 Commandments define limits, something software often does. Looking at
-how successful civilizations have adhered to the 10 commandments, I assume the
-large number of copies of The Code means something.
-
-Even more interesting is that God provided The Code by a miracle, writing it in
-stone and creating fire in various improbable places (a bush, a mountain).
-My point is it's a miracle the 10 Commandments work so well.
+It's a miracle the 10 Commandments exist. And it's a miracle they are so
+effective, showing that God's thoughts are higher than man's.
 
 See Exodus chapter 20.
 
-## Can I make better software by studying Jesus?
+![10 Commandments](/assets/img/9.jpg)
 
-I hope so! Let me quickly dismiss any claim that what I'm doing is "Jesus
-approved." Matthew 18 verses 19-20 only say that Jesus might come and
-participate.
+## Practical Applications
 
-I think that means Jesus would have liked cooperative, collaborative software.
-Perhaps the user freedoms from a Free Software license align with Matthew
-chapter 5 verses 7 and 9, or chapter 7 verse 12.
+I think Jesus would like cooperative, collaborative software work. Maybe user
+freedoms from a Free Software license align with Matthew 5:7-9, or
+Matthew 7:12.
 
-On one point, Jesus was abundantly clear: give glory to God. (Matthew
-chapter 5 verse 16) Here's my practical application of this:
+On one point, Jesus was abundantly clear: give glory to God. (Matthew 5:16)
+Here's my opinion on practical applications of this:
 
 1. Assign copyright to an organization, instead of retaining copyright as
    an individual
@@ -70,27 +72,37 @@ chapter 5 verse 16) Here's my practical application of this:
 The [Christian Disciple Prayer and License](https://github.com/davidhubbard/christiandiscipleprayerandlicense)
 is an incomplete text that can be filled out to meet these goals.
 
+*(The End)*
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
 ## Postscript: Acts 2
 
-Acts 2:44-46 and 4:32-35 say:
+<details markdown="1"><summary>Acts 2:44-46 and 4:32-35 say:</summary>
 
-2:44 "And all that believed were together, and had all things common;"
-2:45 "And sold their possessions and goods, and parted them to all men,
-as every man had need."
-2:46 "And they, continuing daily with one accord in the temple, and
+Acts 2:
+
+**44** And all that believed were together, and had all things common;
+**45** And sold their possessions and goods, and parted them to all men,
+as every man had need.
+**46** And they, continuing daily with one accord in the temple, and
 breaking bread from house to house, did eat their meat with gladness and
-singleness of heart,"
+singleness of heart,
 
-4:32 "And the multitude of them that believed were of one heart and of one
+Acts 4:
+
+**32** And the multitude of them that believed were of one heart and of one
 soul: neither said any of them that ought of the things which he possessed
-was his own; but they had all things common."
-4:33 "And with great power gave the apostles witness of the resurrection of
-the Lord Jesus: and great grace was upon them all."
-4:34 "Neither was there any among them that lacked: for as many as were
+was his own; but they had all things common.
+**33** And with great power gave the apostles witness of the resurrection of
+the Lord Jesus: and great grace was upon them all.
+**34** Neither was there any among them that lacked: for as many as were
 possessors of lands or houses sold them, and brought the prices of the things
-that were sold,"
-4:35 "And laid them down at the apostles’ feet: and distribution was made unto
-every man according as he had need."
+that were sold,
+**35** And laid them down at the apostles’ feet: and distribution was made unto
+every man according as he had need.
 
 To understand what that means, I've boiled down the following economic
 systems for comparison:
@@ -113,6 +125,10 @@ B. What property ownership looks like.
 C. What sets prices and production quotas.
 
 D. What rememdies are offered for poverty.
+
+This postscript is here, in the discussion about Jesus' approach to software,
+because software practices have implications for economics, and are also
+affected by economics.
 
 ### Feudalism
 
@@ -148,8 +164,8 @@ B. Property Ownership: ideally none at all, leading to socialism
 C. Price and Production: voluntary or none at all
 
 D. Poverty: ideally all households receive exactly the same allotment,
-but as this inevitably is tested a need to cede authority to a central
-govenrment leads to socialism
+but as conflicts arise inevitably the authority is ceded to a central
+goverrment, leading to socialism
 
 ### Socialism
 
@@ -219,13 +235,16 @@ C. Price and Production: the same as their existing country's economics
 
 D. Poverty: both physical *and spiritual* poverty are addressed
 
+</details>
+
+<p>&nbsp;</p>
+
 ### Post-Postscript
 
-Maybe Jesus' approach to software uses a different calculus than binary
-and a different computer than digital logic. His approach has some useful
-wisdom for software:
+More ideas for software:
 
 * Keep in mind the human interface and user experience
-* Be kind and patient with others, without compromising on personal beliefs
-* A software license that preserves downstream rights is valuable; a software
-  license that adds to that Christian values might be even more so.
+* Be kind and patient with others, without compromising your personal beliefs
+* A software license that preserves downstream rights is valuable; I'm
+  intrigued what might happen if the software license fuses that with
+  charitable Christian practices

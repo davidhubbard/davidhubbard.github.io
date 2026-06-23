@@ -1,3 +1,8 @@
+---
+layout: default
+title: David Hubbard's blog
+---
+
 # David Hubbard's Blog
 
 <p>

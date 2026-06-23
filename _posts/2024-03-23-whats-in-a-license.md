@@ -1,26 +1,38 @@
 ---
 layout: post
+title: What's In A License?
 ---
 
-# What's in a license?
+<div class="p20240323section1" markdown="1">
+When I was in school, one of my favorite things to do was to invent new programs
+for fun.
 
-*The FSF rallies people to their freedom to share software. But I think
-there are deeper roots of freedom, culture and how to share &mdash; that
-striving to live by traditional morals could satisfy the FSF and have
-other benefits too.*
+It was a race, with no rules except go as fast as you can. It was a competition,
+with no rules but the rule of cool. I ended up disinterested in games and videos.
+I preferred the outdoors, books and inventing new programs. Somehow I could
+start and finish a software project in a few days, just like an impromptu
+backpacking trip or diving into a new book series.
+</div>
 
-## What's in a license?
+# Licenses
 
-Specifically, what does the
+<div class="p20240323section2" markdown="1">
+I noticed licenses more for how some devices had standard protocols like
+USB mass storage. It thrilled me to see jailbroken devices. I started to
+feel I belonged, and I belonged in the tinkerer and maker community.
+
+I had heard of the FSF. I wasn't into sharing software. I really didn't need
+games or an office suite. The traditions of morals and work ethic in the maker
+community were a better match for me.
+</div>
+
+## Conflict in the Community
+
+I heard about tivoization. The
 [GNU General Public License](https://www.gnu.org/licenses/quick-guide-gplv3.html)
-mean?
-
-Please follow the link to find out what the license is (its definition, it's about
-copying software, and so forth).
-
-When Free Software began to get noticed, used and become popular, apparently the
-first step was to clone the idea and modify it. Let's say it was "forked." The
-derivative idea was called Open Source Software.
+got a new version 3. Apparently as the FSF gained mindshare, the first bright
+idea someone had was to "fork" the idea into a nebulous "Open Source" term
+that simultaneously disinherited the FSF and trojaned the community.
 
 From [Wikipedia](https://en.wikipedia.org/wiki/Open-source_software#Definitions):
 
@@ -36,10 +48,9 @@ From [Wikipedia](https://en.wikipedia.org/wiki/Open-source_software#Definitions)
 > The FSF considers free software to be a subset of open-source software, and
 > Richard Stallman explained that DRM software, for example, can be developed as
 > open source, despite that it does not give its users freedom (it restricts them),
-> and thus does not qualify as free
-> software.[14]
+> and thus does not qualify as free software.[14]
 
-I think it's worth giving equal screen time to the FSF to state their position:
+Because I saw the conflict around tivoization, I resonated more with the FSF:
 
 <https://www.gnu.org/philosophy/open-source-misses-the-point.html>
 
@@ -50,10 +61,6 @@ I think it's worth giving equal screen time to the FSF to state their position:
 > open source idea values mainly practical advantage and does not campaign for
 > principles. This is why we do not agree with open source, and do not use that
 > term.
-
-That final sentence sums up a very nice point of philosophy: terminology matters.
-If the FSF doesn't use a term, they do so for a well thought out reason, and I
-admire that.
 
 How much impact has Free Software *and derivative licenses* affected our lives?
 Take the following with a grain of salt, since it appears to miss the distinction
@@ -88,22 +95,38 @@ Skip the debate over the actual numbers. Free Software can be estimated to
 offer a 3.5x reduction in effort and produced ~$9 trillion USD in value in
 2024.
 
-There are nonfungible costs though. I mean, choosing to go with Free Software
-comes with responsibilities:
+I didn't think it was fair to convey it all as fungible for a few dollars.
+It would be like assuming all artists are identical, and that a mere paycheck
+is full compensation for any violation of their creativity, even including
+AI cloning of their work.
 
-* At the point of distribution, limited access to the source is a requirement
-* Due diligence is required about the license's legal status
-* What about the financial impact of the social contract?
+Me, the amateur tinkerer and maker, had already seen the responsibility that
+I had. I had done little reversing projects and even a for-hire trojan for
+leased hardware with a customer who was late in their payment. I regret doing
+that. 🐎
+
+* The point of distribution is pivotal and at that point, limited access to
+  the source code is an acknowledgment of the rights of users.
+* Due diligence about a license can't be skipped.
+* There is an ill-defined but very real social contract between the authors
+  and the users.
 
 That last one is interesting because the social contract has different meanings
-to different groups of people in 2024. To some, a company that does open source
-(if at all) is their preference. To others, the company becomes a target of
-intense criticism because it is perceived as "open for feedback," regardless of
-whether the company actually asked for outside contributors.
+to different groups of people in 2024. To some, a company that works in the
+open source society (if at all) does so at their preference. To others, the
+company becomes a target of intense criticism because it is perceived as
+"open for feedback," regardless of whether the company actually asked for
+outside contributors.
+
+And when the company controls a huge swath of technology that the world relies
+on, what if they close their feedback portals? The social contract reaches
+a level of urgency that may lead politicians to regulate the entire industry.
+
+![Urgent Customer Feedback](/assets/img/7.jpg)
 
 But then again, in 2024, intense scrutiny of companies is something of a popular
 pastime, regardless of their software license policy. Perhaps Free Software
-signals the company's stance is more avant garde, attracting attention?
+signals the company's stance is more avant garde, attracting praise?
 
 And choosing to show the source at all makes it easier for patent litigation
 to proceed against the company.
@@ -111,8 +134,8 @@ to proceed against the company.
 ## Moral or rational decisions
 
 The reality is that companies can't exist for long if their gross income is
-negative. Also not every good idea comes out on top. Software is in a unique
-position though: the source code is both the blueprint and the
+negative. Also not every good idea is rewarded with money. Software is in a
+unique position though: the source code is both the blueprint and the
 building. Or to use a car analogy, software is both the map and the gas
 to get there. I can't think of much else that simultaneously is worth
 trillions in actual currency for the first copy, and costs less than a
@@ -127,6 +150,8 @@ There's an entire tangent at this point about a paradox in business decision
 making: is a business moral, consensus-driven ethical, or coldly profit
 driven?
 
+![Paradox](/assets/img/5.jpg)
+
 For brevity, I'll assert an axiom. (It means, assume we agreed or at least
 stopped arguing, so I can stay on topic.)
 
@@ -135,7 +160,7 @@ morals and pragmatic self-interest. Their customers are treated well even
 when it takes extra time or costs extra - and the company survives by
 optimizing their products and processes to maximize profit and minimze loss.
 
-Is the FSF the moral choice?
+I began to wonder, is the FSF the best moral choice I have?
 
 ## The FSF's values
 
@@ -211,36 +236,37 @@ I admire the FSF's well-thought-out and succinct explanation
 > A US judge, presiding over a trial for copyright infringement, recognized
 > that ["piracy" and "theft" are smear words](https://web.archive.org/web/20240207040538/https://torrentfreak.com/mpaa-banned-from-using-piracy-and-theft-terms-in-hotfile-trial-131129/).
 
-The FSF's values are for companies to be able to make money for software.
-However, the FSF doesn't compromise on their values if money is at stake.
-Instead, they are consistent in pointing out how we all benefit, objectively,
-by adhering to these values.
+I think the FSF upholds companies' "copy right" to receive payment in exchange
+for writing software. However, even if money is at stake, it seems the FSF
+opposes restrictions like prohibiting copies. It could be that we all benefit,
+objectively, even the hypothetical company with new software, if users are
+allowed to make digital copies.
 
-Companies that did embrace Free Software outperformed their competitors.
-Their competitors actively opposing Free Software found it impractical
-to ignore the economic benefits of these values. Now most companies
-are heavily reliant on Free Software.
+For instance, there are companies that did embrace Free Software. Then they
+outperformed their competitors. Their competitors actively opposed Free
+Software, but found it impractical to ignore all the economic benefits that
+started to amass around Free Software. Now most companies are heavily reliant
+on Free Software.
 
 Recap:
 
 1. Software can become valuable by being widely perceived as valuable,
    even as it is shared for zero cost.
 2. Companies that stick to morals can outperform their competitors,
-   especially by sharing software.
+   especially when morals point their self-interest toward enlightened
+   public policy.
 3. The FSF's values are a real-world case study of (1) and (2).
 4. Many do not agree with the FSF, possibly because they fear losing
    control of secrets they think are valuable. (But doesn't this
    support (1)?)
 
-The FSF rallies people to their freedom to share software. But I think
-there are deeper roots of freedom, culture and how to share &mdash; that
-striving to live by traditional morals could satisfy the FSF and have
-other benefits too.
+I appreciate the FSF rally around freedom to share software. My church preaches
+about honesty, to not steal, and to not take credit for work I didn't do.
+I wonder about the social contract, and wonder if my culture is healthy.
 
-By striving to live higher morals, not the more pragmatic Open Source
-licenses, people and companies would benefit from everything the FSF
-offers. By adding deeper roots to the FSF's values, some debates
-might fade away.
+I've become disenchanted with the Open Source philosophy. It's practical, but
+the social contract places all the responsibility on the writer and none on
+the public.
 
 ## What then do you propose?
 
@@ -248,4 +274,14 @@ Of course I'm writing about all of this because I have my own opinion.
 (Safe to assume any author has a bias.)
 
 In the next post, I'll introduce a software license based on traditional
-morals.
+morals and the Bible.
+
+Suggested reading:
+
+Fred P. Brooks Jr., 1975. *The Mythical Man-Month: Essays on Software Engineering*
+Reading, Massachusetts: Addison-Wesley.
+
+or
+
+Fred P. Brooks, Jr., 1995. *The Mythical Man-Month: Essays on Software Engineering*
+(Anniversary ed.) Reading, Massachusetts: Addison-Wesley.

@@ -1,0 +1,56 @@
+---
+---
+@import "jekyll-theme-minimal";
+
+body {
+  background-color: #e1dfb8;
+}
+
+@media print, screen and (max-width: 960px) {
+  .p20240323section1 {
+    background-image: url("/assets/img/4.jpg");
+    background-repeat: no-repeat;
+    background-size: 200pt;
+    padding-left: 50pt;
+  }
+  .p20240323section2 {
+    background-image: url("/assets/img/3.jpg");
+    background-repeat: no-repeat;
+    background-size: 200pt;
+    padding-left: 50pt;
+  }
+  .p20240517section2 {
+    background-image: url("/assets/img/8.jpg");
+    background-repeat: no-repeat;
+    background-size: 250pt;
+    padding-left: 250pt;
+  }
+}
+
+@media print, screen and (min-width: 961px) {
+  .p20240323section1 {
+    background-image: url("/assets/img/4.jpg");
+    background-repeat: no-repeat;
+    background-size: 300pt;
+    padding-left: 75pt;
+  }
+  .p20240323section2 {
+    background-image: url("/assets/img/3.jpg");
+    background-repeat: no-repeat;
+    background-size: 300pt;
+    padding-left: 75pt;
+  }
+  .p20240517section1 {
+    background-image: url("/assets/img/8.jpg");
+    background-repeat: no-repeat;
+    background-size: 250pt;
+    min-height: 100pt;
+    margin-bottom: 0.7em;
+  }
+}
+
+.p20250917section1 {
+  background: #ccc;
+  padding-left: 30pt;
+  padding-right: 10pt;
+}
